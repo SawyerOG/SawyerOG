@@ -2,7 +2,7 @@
 
 I LOVE utilizing technology and code to solve business problems. I am happiest when I am learning and creating solutions.
 
-I am currently the Senior Full Stack JavaScript Developer for PASCO Home Health.
+I am currently the Full Stack JavaScript Developer for PASCO Home Health.
 I get to use code to solve problems!
 
 <!---
