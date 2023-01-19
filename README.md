@@ -33,10 +33,3 @@ I develop custom applications to facilitate work projects and data from payroll 
 
 <p align="left"> <a href="https://www.github.com/SawyerOG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sawyero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-###<b>My GitHub Stats</b>
-
-###<a href="http://www.github.com/SawyerOG"><img src="https://github-readme-stats.vercel.app/api?username=SawyerOG&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&show_icons=true" alt="SawyerOG's GitHub stats" /></a>
-
-###<a href="http://www.github.com/SawyerOG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SawyerOG&stroke=ffffff&background=134e4a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
