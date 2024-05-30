@@ -7,7 +7,7 @@ Process Builder - Software Developer
 I develop custom applications to facilitate work projects and data from payroll engines to automated document and form workflows. I am happiest when I am learning new things, solving problems, and improving processes.
 
 * 🌍  I'm based in The United States
-* 🧠  I'm learning Go Lang
+* 🧠  I love Go and TypeScript
 * 🤝  I'm open to collaborating on Projects that provide utility
 
 ### Skills
