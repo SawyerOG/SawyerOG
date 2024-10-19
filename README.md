@@ -10,7 +10,7 @@ I develop custom applications to facilitate work projects and data from payroll 
 * 🧠  I love Go and TypeScript
 * 🤝  I'm open to collaborating on Projects that provide utility
 
-Check out some of the work I have done form my company [Nimble Cloud](https://github.com/nimble-cloud).
+Check out some of the work I have done for my company [Nimble Cloud](https://github.com/nimble-cloud).
 
 ### Skills
 
